@@ -1,0 +1,4 @@
+# B2B Annotation Pipeline — Requirements
+# No third-party dependencies required.
+# Uses Python standard library only (csv, json, os, argparse, datetime, collections).
+# Compatible with Python 3.8+
