@@ -1,0 +1,9 @@
+{
+  "Office Supplies": ["pen", "pencil", "stapler", "paper", "notebook", "binder", "toner", "cartridge", "sticky note", "clipboard", "folder", "envelope", "tape", "scissors", "marker"],
+  "Industrial Equipment": ["drill", "lathe", "compressor", "conveyor", "pump", "valve", "motor", "generator", "forklift", "welding", "grinder", "press", "crane", "hoist", "turbine"],
+  "Scientific Instruments": ["microscope", "centrifuge", "spectrophotometer", "pipette", "beaker", "flask", "thermometer", "oscilloscope", "analyzer", "calibrator", "burette", "cuvette", "spectrometer", "incubator"],
+  "Safety & PPE": ["helmet", "gloves", "goggles", "harness", "vest", "respirator", "earmuff", "fire extinguisher", "first aid", "safety boot", "face shield", "knee pad", "coverall", "hard hat"],
+  "Electronics": ["laptop", "monitor", "keyboard", "router", "switch", "server", "cable", "sensor", "battery", "charger", "ups", "projector", "scanner", "webcam", "hard drive"],
+  "Furniture": ["desk", "chair", "cabinet", "shelf", "table", "workbench", "locker", "rack", "partition", "sofa", "drawer", "bookcase", "pedestal", "stool"],
+  "Cleaning Supplies": ["mop", "broom", "detergent", "sanitizer", "disinfectant", "wipe", "vacuum", "cleaner", "trash bag", "soap", "sponge", "scrubber", "spray", "bin liner"]
+}
