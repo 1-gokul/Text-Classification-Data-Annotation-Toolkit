@@ -100,7 +100,7 @@ Validates all annotation records for label integrity, completeness, and classifi
 python audit.py
 # Output: tracker/audit_log.csv, tracker/audit_summary.txt
 ```
-
+Deploying on hugging face!
 ---
 
 ## Product Categories
